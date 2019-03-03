@@ -17,10 +17,10 @@ class Book
 
   # def page_count
   # end
-  # 
+  #
   # def genre
   # end
-  # 
+  #
   # def turn_page
   # end
 
