@@ -15,13 +15,13 @@ class Book
     @author
   end
 
-  def page_count
-  end
-
-  def genre
-  end
-
-  def turn_page
-  end
+  # def page_count
+  # end
+  # 
+  # def genre
+  # end
+  # 
+  # def turn_page
+  # end
 
 end
